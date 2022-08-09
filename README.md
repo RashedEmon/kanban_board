@@ -18,11 +18,11 @@
 
 <h2>Installation process:</h2>
 <p>
-  Fist open terminal and run following command
-  <code> git clone https://github.com/RashedEmon/kanban_board.git </code>
-  After cloning the project.
-  Install nodejs and reactjs. If already installed then skip this step.
-  Goto project directory and run the following command.
-  <code>npm start</code>
-  The project will run.
+  Fist open terminal and run following command</br>
+  <code> git clone https://github.com/RashedEmon/kanban_board.git </code></br>
+  After cloning the project.</br>
+  Install nodejs and reactjs. If already installed then skip this step.</br>
+  Goto project directory and run the following command.</br>
+  <code>npm start</code></br>
+  The project will run.</br>
 </p>
