@@ -14,3 +14,15 @@
   <li>HTML5</li>
   <li>CSS3</li>
 </ol>
+
+
+<h2>Installation process:</h2>
+<p>
+  Fist open terminal and run following command
+  <code> git clone https://github.com/RashedEmon/kanban_board.git </code>
+  After cloning the project.
+  Install nodejs and reactjs. If already installed then skip this step.
+  Goto project directory and run the following command.
+  <code>npm start</code>
+  The project will run.
+</p>
