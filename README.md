@@ -1,16 +1,16 @@
 <h2>kanban_board(backend)</h2>
-#To save kanban board data to server
+#To save kanban board data to server</br>
 
 <h3>technology used</h3>
-1. Django
-2. Django_Rest_framework
-3. python
-4. sqlite3
+1. Django</br>
+2. Django_Rest_framework</br>
+3. python</br>
+4. sqlite3</br>
 
-#api endpoint
-#api/task/get
-#api/task/add
-#api/task/remove
+#api endpoint</br>
+#api/task/get</br>
+#api/task/add</br>
+#api/task/remove</br>
 
 <h3>Installation process</h3>
 <p>
