@@ -1,4 +1,4 @@
-<h2>kanban_board(backend)</h2>
+<h2>Kanban Board(backend)</h2>
 To save kanban board data to server</br>
 
 <h3>Technology used</h3>
@@ -8,7 +8,7 @@ To save kanban board data to server</br>
 4. sqlite3</br>
 </br>
 </br>
-<h3>Api Endpoints</h3></br></br>
+<h3>Api Endpoints</h3>
 #api/task/get</br>
 #api/task/add</br>
 #api/task/remove</br>
