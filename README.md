@@ -6,7 +6,6 @@ To save kanban board data to server</br>
 2. Django_Rest_framework</br>
 3. python</br>
 4. sqlite3</br>
-</br>
 <h3>Api Endpoints</h3>
 #api/task/get</br>
 #api/task/add</br>
