@@ -19,4 +19,8 @@ const Box = ({items,handleDragOver,handleDrop,removeItem,boxtype})=>{
         </div>
     )
 }
+<<<<<<< HEAD:src/components/box.js
 export default Box;
+=======
+export default Inprogress;
+>>>>>>> eaccf6822ae54557c2482eb64bdfbf6636f3a64d:src/components/inprogess.js
