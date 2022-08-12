@@ -7,7 +7,6 @@ To save kanban board data to server</br>
 3. python</br>
 4. sqlite3</br>
 </br>
-</br>
 <h3>Api Endpoints</h3>
 #api/task/get</br>
 #api/task/add</br>
